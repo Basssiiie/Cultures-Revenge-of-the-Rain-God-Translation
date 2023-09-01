@@ -1,0 +1,15 @@
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+After wandering through the forest, we finally saw Thorwal's woodcutter's hut.
+\n
+\n
+"Greetings my friends. So you want me to rejoin you. I'd love to do that, but this year hasn't been good for my beer supplies. Everything's gone, and I can't celebrate without my beer, and without one I can't drink up the courage to celebrate properly, and unfortunately I can't accompany you without courage.
+\n
+But could you help me out with some fresh beer?"
+\n
+\n
+Thorwal was known for his excessive consumption of beer. We chuckled knowing that even if we did deliver him a new supply of beer, it wouldn't last more than a few weeks. But this was his condition, and we were willing to do anything to have him come with us.
+\n
+\n

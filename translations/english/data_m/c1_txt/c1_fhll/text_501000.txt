@@ -1,0 +1,57 @@
+<setdatafileid:21><anchor:0>
+<font:1><block:2><color:3>
+<onscreencallback:1,501000,0>
+\n
+THE DEPARTURE
+\n
+<font:3>
+<picture:210>
+\n
+Five years had passed since we returned from our adventure in that mysterious world where we found the fragments of the sun that had fallen from the sky and brought them back to our homeland.
+\n
+\n
+When my grandfather put the six parts together to form a whole, the heavy cloud cover in the sky had opened up and the sun, with its warm rays, brought life and prosperity back to our village.
+But as we soon found out, this happiness shouldn't be granted to us for too long...
+\n
+\n
+It was on a stormy winter night when Eskimo friends told us they had seen strange-looking warriors land on the shore. Tanned, shirtless men with the feathers of wondrous magic birds sticking out of their heads.
+\n
+We assumed the worst. The Mayans! Those ferocious warriors from the southern reaches of the New World at whose hands many of our brave heroes fell.
+\n
+\n
+Without hesitation, our bravest men rushed out into the cold night to meet the enemy. When they reached the ice-covered beach, they immediately saw those mysterious warriors. It wasn't the Mayans, it was our friends from distant Vinland - the "Yellow Knife" Indians. Half frozen, they stood by their canoes that had landed on our shore.
+\n
+\n
+But what had made her undertake this long, dangerous journey?
+\n
+\n
+After a warm welcome, they brought the men into our chief's warm hut so that they could warm themselves by the fire. After regaining their strength, they told us that their chief "Ugga Walla" had sent them.
+\n
+\n
+Their village had been attacked and destroyed. All the Yellow Knives who were in the village had been killed, and only the few who happened to be in the woods at the time of the attack survived. Now they asked us for help!
+\n
+\n
+Many of us still remembered the warm hospitality we had received from our red brothers, so we did not hesitate. As the veil of night lifted again, we were already beginning to load the ships with all the supplies needed for such a long voyage.
+\n
+\n
+Our eldest asked me to go into the woods to the north to find Thorwal, the bravest of our warriors. I should get him to join our squad. Thorwal had retired to seclusion in the woods with his wife after our last adventure. Only occasionally did we see his wife, who came to our village to fill up her husband's beer supplies.
+\n
+Thorwal should definitely rejoin us!
+\n
+\n
+The elder looked at me with a worried look and put his hand on my shoulders. "Also in the Far West lives Maradorn, a war hero like Thorwal. Find him too! I heard he's not doing very well. Find out what's behind this rumour. If he's doing well, bring him there too to join us."
+\n
+\n
+With these words he left me.
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Find Thorwal. Find Maradorn. Bring 100 food, 10 spears and 30 beer to the ship on the south bank
+\n
+\n

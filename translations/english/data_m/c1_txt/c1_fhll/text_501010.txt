@@ -1,0 +1,12 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+<font:3>
+<picture:90>
+\n
+The supplies were now loaded and we could begin our journey. The winds were kind to us, and it wasn't long before we glimpsed the shores of the world where we'd had so many adventures.
+\n
+\n
+<icon:0>
+\n
+\n

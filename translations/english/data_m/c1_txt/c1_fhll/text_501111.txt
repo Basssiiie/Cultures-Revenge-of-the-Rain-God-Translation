@@ -1,0 +1,12 @@
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+You just attacked a peaceful tribe. That's not how you make friends!...
+\n
+And believe me, you need all the help you can get to complete your mission successfully!
+\n
+\n
+<icon:0>
+\n
+\n

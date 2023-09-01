@@ -1,0 +1,15 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+Mission lost!
+\n
+<picture:201>
+\n
+<font:3>
+\n
+The ship has been destroyed! The great adventure cannot begin now!
+\n
+\n
+<icon:0>
+\n
+\n

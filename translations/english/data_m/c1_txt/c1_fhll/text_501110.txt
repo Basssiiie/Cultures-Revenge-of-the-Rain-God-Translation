@@ -1,0 +1,16 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+<font:3>
+<picture:201>
+\n
+Odin have mercy on you! Your mission has failed!
+All your Vikings are gone...
+\n
+\n
+May they have a better life in Valhalla than yours!
+\n
+\n
+<icon:0>
+\n
+\n

@@ -1,0 +1,14 @@
+<setdatafileid:0><anchor:0>
+<font:1><block:2><color:3>
+\n
+Mission accomplished!
+\n
+\n
+<font:3>
+<picture:200>
+The supplies were now loaded and we could begin our journey.
+<onscreencallback:1,501001,0>
+The winds were kind to us, and it wasn't long
+until we spied the shores of that world in which we had already had so many adventures.
+\n
+\n

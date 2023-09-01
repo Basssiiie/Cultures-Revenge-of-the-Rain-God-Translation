@@ -1,0 +1,166 @@
+English
+Credits
+Main menu
+Single Player
+Multiplayer
+Options
+Intro
+Credits
+Single Player
+Tutorial
+New Scenario
+New Campaign
+For beginners
+Continue
+Load Game
+Select Map
+Select Mission
+Beginner Scenarios
+Select Game
+Tutorial
+Options
+Graphic Options
+Sound Options
+Difficulty
+easy
+standard
+Detail Level
+Scroll Speed
+Brightness
+Resolution
+Mousewheel
+None
+Zoom
+Tilt
+Hardware Mouse
+Sound Quality
+Music Volume
+Sound Volume
+Network Options
+Cultures Online Server
+Multiplayer Game
+Cultures online
+Click on the button to get connected with the
+CULTURES Online Server.
+CULTURES will be closed.
+Select Provider
+Player Name
+Name:
+Create Session
+Join Session
+Connection Data
+IP address:
+Phone number:
+Select modem:
+Sessions
+Session Info
+Savegame
+(unknown savegame)
+(unknown map)
+Join Session
+Lobby
+Data Update
+Create Session
+New Deathmatch
+New EcoRace
+Load Game
+Continue Game
+Select Map
+Select Game
+Connecting to Lobby ...
+Reading Service Provider ...
+Connecting ...
+Creating Session ...
+Joining Session ...
+Disconnecting ...
+Do you really want to exit the game?
+Do you really want to dismiss this player?
+Do you really want to abort this network session?
+Do you really want to leave this network session?
+Highscore
+Savegame for
+player
+players
+Files are transferred, please wait...
+Launching bonus map...
+Not available in the demo version!
+No access to CD drive! Please shutdown any program with CD access (like CD players) and start Cultures again.
+No original CD found. Press 'Try again' for a new search or 'Network game' to join a local network session.
+No original CD found. Press 'Try again' for a new search or 'Abort' to leave the game.
+Try again
+Network game
+Abort
+You need more player for this map!
+No remote player connected!
+Lost connection to the host!
+You were dismissed by the host!
+A color is used more than once!
+Session is full!
+Wrong game version!
+Wrong map version!
+(No map picture available)
+Starts the singleplayer game.
+Starts the multiplayer game.
+Graphic and sound options.
+Plays the intro movie again.
+The Creators of the game.
+Back to the last menu.
+Exit the game.
+Starts a tutorial which introduces you with the game.
+Starts a new scenario game for a single player.
+Starts a new campaign game for a single player.
+Here all bonus-objects already exist in big quantity. That's why not all buildings can be built.
+Continues with your last saved singleplayer game.
+Lets you browse through your savegames and loads any singleplayer savegame.
+Shows the highscore list for singleplayer games.
+Change graphic settings.
+Change sound settings.
+Switches to the easy difficulty. All missions are a bit easier to solve.
+Switches to standard difficulty.
+Change the detail level.
+The mouse wheel has no function.
+The mouse wheel zooms in and out.
+The mouse wheel tilts the screen view.
+Enables the hardware mouse. May not work on all systems!
+Disables the hardware mouse und uses  the slower software mouse.
+Changes the sound quality.
+Changes the scroll speed in the game.
+Changes the brightness.
+Changes the volume level for all music tracks in the game.
+Changes the volume of all sounds and speeches for the game and the intro.
+Starts a new deathmatch game for multiple players.
+
+Lets you browse through your savegames and loads any multiplayer savegame.
+Continues with your last saved multiplayer game.
+This station is the session host.
+Enables or disables a player. This can only done by the session host.
+Enables or disables a player. This can only done by the session host. In this savegame the number of players can not be changed.
+Enables or disables a player. This can only done by the session host. In this game AI players can not be enabled.
+This is the human player on this station.
+This is a human player on a remote network station.
+This human player died a long time ago.... may he R.I.P.!
+This player is controlled by the computer.
+This player was controlled by the computer, but died a horrible death.
+Shows the player color. Only the host may change the player color.
+This field shows the quality of the network connection to this station. A lower value is better than a high one.
+Shows the progress of the file transfer.
+Starts the game with the selected settings.
+Connect to the CULTURES online content.
+Create network, modem or serial connection.
+Shows the highscore list for multiplayer games.
+Connect to the internet. You must have a correct installed connection to use this feature.
+Creates a new session as host.
+Join a running session created by somebody else.
+Searches for running sessions under the given IP address.
+Use the selected modem and phone number when connecting to another station.
+Uses the selected parameters when connecting to another station.
+Select the COM port the serial cable is connected to. Default value is 'COM 1'.
+Select the communication speed. Default value is '115200 baud'.
+Select the number of stopbits. Default value is '1 Stopbit'.
+Select the flow control type you wish to use. Default value is 'RTS/DTR Flow Control'.
+Select the parity type of the connection. Default value is 'No Parity'.
+Select Campaign
+The Discovery of Vinland
+The Revenge of the Rain Gods
+Play the campaign from the main game.
+Play the campaign from the expansion pack.
