@@ -2,19 +2,19 @@
 <font:1><block:2><color:3>
 <onscreencallback:1,502000,0>
 \n
-THE__ORDER
+THE PLEDGE
 \n
 <font:3>
 <picture:220>
-After a long, stormy crossing, the verdant coast of Vinland emerged from the ocean tides on the horizon.
+After a long, stormy crossing, the green coast of Vinland emerged from the ocean tides on the horizon.
 \n
 My heart was filled with mixed feelings. I almost hoped I would never have to set foot there again, but there is little that a Viking holds more sacred than a debt of honor to friends and allies.
 \n
 \n
-So I set foot again on the wide lands to the west, where lived our friends the Yellow Knives, with whom we had endured so many dangers and adventures.
+So again I set foot on the wide lands to the west where our friends the Yellow Knives lived, with whom we had endured so many dangers and adventures.
 \n
 \n
-We first had to set up camp from which to start the search for our red brothers who had so urgently asked for our help.
+We first had to set up camp from which to start the search for our brothers, who had so urgently asked for our help.
 \n
 \n
 \n
@@ -24,6 +24,6 @@ We first had to set up camp from which to start the search for our red brothers 
 GOALS:
 \n
 \n
-Set up your starting camp and find the friendly Indian tribe
+Set up your starting camp and find the friendly native tribe
 \n
 \n

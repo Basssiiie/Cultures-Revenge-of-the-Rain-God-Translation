@@ -9,12 +9,11 @@ Mission accomplished!
 We would never have found the trail of the creepy strangers on our own!
 \n
 <onscreencallback:1,502010,0>
-The Vinlander tracker read the Signs of the Wild
-like our scholars in their scrolls. Now that we knew where to go, we formed a small group
-who wanted to try to free the chief's son.
+\n
+The Vinlander tracker read the Signs of the Wild like our scholars in their scrolls. Now that we knew where to go, we formed a small group who wanted to try to free the chief's son.
 \n
 \n
-The other part should stay on the ship and help the locals to rebuild their villages.
+The rest of our group should stay with the ship and help the locals to rebuild their village.
 \n
 \n
 On the morning of our departure, the chief came up to me and thanked me heartily. Should we ever need his help, we could count on him.
