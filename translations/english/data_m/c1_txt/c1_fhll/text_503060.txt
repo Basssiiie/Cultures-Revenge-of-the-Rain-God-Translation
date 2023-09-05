@@ -1,0 +1,13 @@
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+We encountered the Poke Montas, a thriving native tribe in the expanses of a large grassy plain.
+\n
+\n
+They suffered the least from the attacks of the unknown enemy and did not need our help.
+\n
+\n
+But their chief Swift Wolf, who valued our wares, offered us friendship, trade, and more if we paid them the tribute they wanted.
+\n
+\n

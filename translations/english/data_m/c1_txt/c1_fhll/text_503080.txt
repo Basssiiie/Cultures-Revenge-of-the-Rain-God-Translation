@@ -1,0 +1,30 @@
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+How great was the joy when we gave the supplies to the Wood Walkers! A hundred happy faces smiled at us and chanted in our honor.
+\n
+\n
+We watched with satisfaction as the women and children divided up the food and medicine. We had done something good, but lost sight of our goal of confronting the unknown enemies. Now they could continue to plunder and burn defenseless villages like those of the Wood Walkers.
+\n
+\n
+Lost in these dark thoughts, I didn't notice Chief Wakening Cry stepping up behind me. He seemed to know what was tormenting me, because he smiled at me and confided in me a secret of his tribe:
+\n
+According to a legend of the Vinlanders, deep in the heart of the earth lived an omniscient shaman who knew the answer to all questions. Surely this wise medicine man could help us to continue our mission.
+\n
+\n
+In gratitude for our help, he sent a message to the sanctuary's guards so that they would let us pass unmolested.
+\n
+Full of confidence we set off.
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Find the mysterious shaman's cave
+\n
+\n

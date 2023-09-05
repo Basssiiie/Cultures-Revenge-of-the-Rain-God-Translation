@@ -1,0 +1,27 @@
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+Overjoyed, we were surrounded by the men and women of the Red Wings as we presented the elder with the promised food and medicine. The survival of the tribe was assured! From now on they would get on without our help, set up their tents again and soon all misfortune would be forgotten. But one thing would stay with us: your gratitude.
+\n
+\n
+That made me happy, even though we had lost track of our enemies for now. I didn't know where to lead our people from now on. So I was thinking to myself when Thorwal came towards me with an old woman, grinning widely.
+\n
+\n
+This old woman knew of an ancient Vinlander sanctuary in the northern mountains, guarded by warlike guardians.
+There would be a mysterious cave there into which those seeking advice would descend to get answers to all their questions.
+\n
+\n
+Thorwal was sure that we could only find what we were looking for there. Full of gratitude, the chief showed us the way himself, even if he didn't believe in these old legends himself.
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Find the mysterious shaman's cave
+\n
+\n

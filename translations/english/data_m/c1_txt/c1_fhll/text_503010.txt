@@ -1,0 +1,21 @@
+<setdatafileid:0><anchor:0>
+<font:1><block:2><color:3>
+\n
+Mission accomplished!
+\n
+\n
+<font:3>
+<picture:200>
+We made it! Finally we stood in front of the entrance to the
+shaman's cave,
+<onscreencallback:1,503010,0>
+from whom we hoped to get an answer to our questions.
+It was a dark hole in the rock, like a yawning maw that seemed to lead straight down into the gullet of Utgard. But we had to dare if we wanted to learn more about our enigmatic opponent.
+\n
+\n
+We decided to split up. Should something happen to the first group that I joined, the second group should follow us and complete our mission.
+\n
+\n
+Before we descended into the dark abyss, I looked up at the blue sky one last time. Would we ever see the sun again?
+\n
+\n

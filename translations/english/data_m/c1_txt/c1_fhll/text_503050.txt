@@ -1,0 +1,24 @@
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+Our scouts could see the extent of the destruction from afar. The village of the Red Wings had been badly battered.
+Everywhere you saw the wounded in their destroyed tents. It pained me when the once-proud people begged us for help.
+\n
+\n
+With a handshake, I gave the overjoyed tribal elder my word that I would help with the reconstruction. Our primary goal now was to help these poor people who so desperately needed our help.
+\n
+\n
+But I swore by Odin: once we found a way to resume the trail of the unknown enemy, we would take responsibility!
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Pay the desired tribute to help the Red Wings!
+\n
+\n
