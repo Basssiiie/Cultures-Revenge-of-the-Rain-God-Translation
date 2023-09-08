@@ -4,30 +4,30 @@ Cultures: Revenge of the Rain Gods
 English Translation Pack
 </h1>
 
-This is an English community translation pack for Revenge of the Rain Gods, a mission pack released for the first original Cultures game as part of **Cultures: Gold Edition** or **Cultures: Saga**. Both these games have only been released officially in German, thus why this English translation pack came to exist.
+This is an English community translation pack for Revenge of the Rain Gods, a mission pack released for the first original Cultures game on a seperate CD and as part of the **Cultures: Gold Edition**. Both these games have only been released officially in German. To share its wonderful campaign and new missions with the rest of the world, this English translation pack was created.
 
-**Currently this pack is a work in progress.**
+**This pack is currently a work in progress.**
 
 ## Features
 
 This pack contains the following changes so far:
 
-- The first 4 campaign levels of Revenge of the Rain Gods in English.
+- The first 4 campaign levels of 'Revenge of the Rain Gods' in English.
 - Enabled the available built-in English language files for various menu's and adds missing strings.
 
 ## Requirements
 
-To play the Revenge of the Rain Gods campaign in English, you must own a German copy of **Cultures: Gold Edition** or **Cultures: Saga**. 
+To play the 'Revenge of the Rain Gods' campaign in English, you must own the original German mission CD or a German copy of **Cultures: Gold Edition**.
 
 **This translation pack does not contain the game itself.**
 
 ## How to install
 
-1. Make a backup of your **Cultures: Gold Edition** or **Cultures: Saga** game folder.
+1. Make a backup of the game folder you wish to have translated.
 2. Download the latest version from the [Releases](https://github.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/releases) tab.
-3. Extract the contents of the `*.zip` file and paste them over your game.
+3. Extract the contents of the `*.zip` file and paste them over the installation folder of your game.
 4. Allow to replace everything.
-5. Start the game and it should start in English.
+5. Start the game and it should launch in English.
 
 ### Optional: run in windowed mode
 
