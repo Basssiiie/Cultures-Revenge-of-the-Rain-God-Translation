@@ -1,0 +1,9 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+<picture:201>
+\n
+\n
+All your Vikings have left this world. Your mission has failed.
+\n
+\n

@@ -1,0 +1,33 @@
+<setdatafileid:24><anchor:0>
+<font:1><block:2><color:3>
+<onscreencallback:1,504000,0>
+\n
+THE CAVE OF REVELATION
+\n
+<font:3>
+<picture:240>
+Through the secret entrance in the rock, I descended deeper and deeper into the subterranean realm of the shaman, followed by some of our bravest warriors.
+Oppressive darkness immediately enveloped us, only sparsely lit by the occasional pitch torch, the acrid smoke of which stung our eyes.
+\n
+\n
+We had hardly taken the first steps when, with a deafening scream, a huge, wildly fluttering something rushed past us and disappeared through the exit.
+Fear flashed in the eyes of the veteran fighters, and my heart almost stopped before we realized that it was just a swarm of bats, like the ones we knew from our old homeland.
+\n
+\n
+I looked around uncertainly in the impassable labyrinth, in which every passage looked like the next. Even if we found our way to the wise man, where would we get food from? Our supply bags were empty, so all we could do was hope to find something nourishing in those dark vaults.
+\n
+\n
+And then there were the minions of darkness that the Guardians had warned us about.
+I felt like a cold fist was gripping my heart...
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Find your way through the underground maze of the medicine man
+\n
+\n

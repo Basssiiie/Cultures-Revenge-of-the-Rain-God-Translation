@@ -1,0 +1,38 @@
+<setdatafileid:0><anchor:0>
+<font:1><block:2><color:3>
+\n
+Mission accomplished!
+\n
+\n
+<font:3>
+<picture:200>
+Emaciated and half blinded by the darkness, we entered a huge cave.
+<onscreencallback:1.504010.0>
+The vault stretched like the wide sky and was lost in the darkness above our heads.
+\n
+\n
+The torches cast bizarre shadows on the walls, and we could make out movement at the far end. We approached and there he sat, the wise man. Small and wrinkled, half hidden under a loose hooded cloak, he began to speak in a thin, trembling voice:
+\n
+\n
+"Welcome to you, my brave Vikings.
+I have foreseen your coming.
+But I wonder why are you here?
+I cannot instruct you, you are not yet ready for this burden.
+Quetzalcoatl the rain god!
+\n
+\n
+You must oppose him, then... only then will your journey be over.
+\n
+\n
+One piece of advice I give you, do not turn down the help of your friends, just so you can win against the forces of the dark side. Now go...
+I'll show you the way."
+\n
+\n
+With the help of the old man we found our way back to the light with no difficulty. Then suddenly he was gone, as if he had dissolved into nothing. I kept thinking about his words...
+"The help of our friends..."
+\n
+\n
+Surely that could only mean the Vinlanders?
+And this rain god? What did we have to do with him? ... At least we now knew the way, and we set out on our onward journey with renewed courage.
+\n
+\n
