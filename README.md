@@ -4,7 +4,7 @@ Cultures: Revenge of the Rain Gods
 English Translation Pack
 </h1>
 
-This is an English community translation pack for Revenge of the Rain Gods, a mission pack released for the first original Cultures game on a seperate CD and as part of the **Cultures: Gold Edition**. Both these games have only been released officially in German. To share its wonderful campaign and new missions with the rest of the world, this English translation pack was created.
+This is an English community translation pack for Revenge of the Rain Gods, a mission pack released for the first original Cultures game on a separate CD and as part of the **Cultures: Gold Edition**. Both these games have only been released officially in German. To share its wonderful campaign and new missions with the rest of the world, this English translation pack was created.
 
 **This pack is currently a work in progress.**
 
@@ -14,6 +14,11 @@ This pack contains the following changes so far:
 
 - The first 4 campaign levels of 'Revenge of the Rain Gods' in English.
 - Enabled the available built-in English language files for various menu's and adds missing strings.
+
+### Planned
+
+- The rest of the campaign levels.
+- The new scenario's added by the mission pack.
 
 ## Requirements
 
@@ -31,7 +36,7 @@ To play the 'Revenge of the Rain Gods' campaign in English, you must own the ori
 
 ### Optional: run in windowed mode
 
-Follow these steps to make the game run in windowed mode, instead of full-screen.
+Follow these steps to make the game run in windowed mode, instead of full-screen, on modern machines.
 
 1. Create a shortcut for the game by right clicking it and select '**Create shortcut**'.
 2. Right-click the shortcut and select '**Properties**'.
