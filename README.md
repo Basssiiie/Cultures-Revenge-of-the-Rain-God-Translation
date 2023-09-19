@@ -28,7 +28,7 @@ To play the 'Revenge of the Rain Gods' campaign in English, you must own the ori
 
 ## How to install
 
-1. Make a backup of the game folder you wish to have translated.
+1. Make a backup of the folder of the game you wish to have translated.
 2. Download the latest version from the [Releases](https://github.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/releases) tab.
 3. Extract the contents of the `*.zip` file and paste them over the installation folder of your game.
 4. Allow to replace everything.
