@@ -8,6 +8,9 @@ This is an English community translation pack for Revenge of the Rain Gods, a mi
 
 **This pack is currently a work in progress.**
 
+| ![Select campaign window](https://raw.githubusercontent.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/main/images/campaign-select.png) | ![Briefing for The Departure](https://raw.githubusercontent.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/main/images/the-departure-briefing.png) | ![Paying tribute for mercenaries](https://raw.githubusercontent.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/main/images/buying-mercenaries.png) |
+|--|--|--|
+
 ## Features
 
 This pack contains the following changes so far:
