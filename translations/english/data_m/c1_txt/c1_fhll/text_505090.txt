@@ -1,0 +1,20 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+As the noise of the fighting died down, we heard someone calling for help. Locked in a shed we found Winipuh, the son of the chief of the Yellow Knives.
+\n
+\n
+The Rain Warriors had given him a miserable time, but he was overjoyed when he recognized us.
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Free Winipuh by defeating all Rain Warriors.
+\n
+\n

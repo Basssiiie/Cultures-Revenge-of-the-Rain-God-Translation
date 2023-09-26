@@ -1,0 +1,23 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+On the other side of the blue lake we met the proud people of the Chinchillas. The initial mistrust quickly disappeared when they heard that the shaman had sent us.
+\n
+\n
+Their chief Rabbit Foot bitterly lamented the death of the Sea Folk. Chief Shoeshoe had been the only one who had dared to rebel against the Rain Warriors.
+\n
+\n
+"If only we had weapons like you," cried Rabbit Foot, "then we could do it!" At the same time, he urgently warned us to act alone against the mysterious strangers, as they were possessed of inhuman strength.
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Bring Rabbit Foot the weapons he wants (as tribute) if you want the Chinchillas' support.
+\n
+\n

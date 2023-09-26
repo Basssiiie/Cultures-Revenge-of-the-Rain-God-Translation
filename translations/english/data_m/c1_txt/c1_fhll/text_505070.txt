@@ -1,0 +1,26 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+The path led us through lush agave plantations to a tribe that called themselves the Manitoos.
+\n
+\n
+As we entered the village between two war towers, we were rudely greeted by armed warriors. At first they wanted to chase us away again, but finally they let us appear before their chief Skunkatonka.
+\n
+\n
+He listened to our story with a repugnant face. When we mentioned the Rain Warriors, he interrupted us harshly: the people of the Manitoos are not afraid of these evil spirits. Our brave warriors alone will take on any stranger who dares to challenge us. Pay us a tribute and we will help you with whoever you wish."
+\n
+\n
+When we heard the outrageous demands for tribute, we left the village indignantly to the loud laughter of the Vinlanders.
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Pay the desired tribute if you want Skunkatonka's help.
+\n
+\n

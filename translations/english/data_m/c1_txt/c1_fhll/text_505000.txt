@@ -1,0 +1,31 @@
+<setdatafileid:25><anchor:0>
+<font:1><block:2><color:3>
+<onscreencallback:1,505000,0>
+\n
+ARIZONA
+\n
+<font:3>
+<picture:250>
+\n
+For twelve days and nights we traveled through the wild country, on secret paths and trails that the wise man had shown us. During the day we followed the midday sun and at night we followed the sailor's star.
+\n
+\n
+The further south we went, the more the uneasy feeling grew within me that had never left me since we came to this coast again. This feeling of impending, unknown danger, as if the sky was falling on our heads...
+\n
+\n
+Who could those mysterious attackers be, these followers of a rain god about whom not a word is mentioned in our songs? Well, with Odin's help we would know soon!
+\n
+\n
+Finally we reached the lakeside village that the medicine man had spoken of. But what was that? We could hear the sounds of fighting from far away...
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Rush to help the villagers and find out what happened.
+\n
+\n

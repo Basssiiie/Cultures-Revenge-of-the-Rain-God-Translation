@@ -12,7 +12,8 @@ Warning: these pages will contain spoilers!
 | 1. | [c2_01_a_txt.ini](./Data_m/c2_01_a_txt.ini) | Der Aufbruch | [The Departure](#level-1-der-aufbruch--the-departure) |
 | 2. | [c2_02_a_txt.ini](./Data_m/c2_02_a_txt.ini) | Der Auftrag | [The Pledge](#level-2-der-auftrag--the-pledge) |
 | 3. | [c2_03_a_txt.ini](./Data_m/c2_03_a_txt.ini) | Die Fährte | [The Trail](#level-3-die-fährte--the-trail) |
-| 4. | [c2_04_a_txt.ini](./Data_m/c2_04_a_txt.ini) | Die Höhle der Offenbarung | [The Cave of Relevation](#level-4-die-höhle-der-offenbarung--the-cave-of-relevation) |
+| 4. | [c2_04_a.txt.ini](./Data_m/c2_04_a.txt.ini) | Die Höhle der Offenbarung | [The Cave of Revelation](#level-4-die-höhle-der-offenbarung--the-cave-of-revelation) |
+| 5. | [c1_md_05_txt.ini](./Data_m/c1_md_05_txt.ini) | Arizona | [Arizona](#level-5-arizona) |
 
 ## Level briefings
 
@@ -34,12 +35,14 @@ Warning: these pages will contain spoilers!
 | [text_501011.txt](./Data_m/C1_txt/C1_fhll/text_501011.txt) | Finding the canoes |  |
 | [text_501012.txt](./Data_m/C1_txt/C1_fhll/text_501012.txt) | Finding the Mayan ruins |  |
 | [text_501099.txt](./Data_m/C1_txt/C1_fhll/text_501099.txt) | Mission lost (ship destroyed) |  |
-| [text_501110.txt](./Data_m/C1_txt/C1_fhll/text_501110.txt) | Death (copy) | Unused |
-| [text_501111.txt](./Data_m/C1_txt/C1_fhll/text_501111.txt) | Mission lost (any npc killed) | See note 2 |
+| [text_501110.txt](./Data_m/C1_txt/C1_fhll/text_501110.txt) | Death (copy) | See note 2 |
+| [text_501111.txt](./Data_m/C1_txt/C1_fhll/text_501111.txt) | Mission lost (any npc killed) | See note 3 |
 
 #### Notes
 1. It seems the snow sculpture event was originally a bit different as it is referred to as "hermit" ("Einsiedler") in the mission code, and there is also an unused mission goal "Find the hermit".
-2. This event is broken in German version where it will display as an empty briefing, due to a missing `>` in the comment tag at the top.
+2. This copy is never referenced is this level. It is however referenced from [level 5](#level-5-arizona) but is never actually shown.
+3. This event is broken in German version where it will display as an empty briefing, due to a missing `>` in the comment tag at the top.
+
 
 ### Level 2 (Der Auftrag / The Pledge)
 
@@ -85,7 +88,7 @@ Warning: these pages will contain spoilers!
 2. If you kill the Red Wings tribe or the Wood Walkers tribe, the mission will fail with `text_501111.txt` from the [first campaign level](#level-1-der-aufbruch--the-departure).
 
 
-### Level 4 (Die Höhle der Offenbarung / The Cave of Relevation)
+### Level 4 (Die Höhle der Offenbarung / The Cave of Revelation)
 
 | File | Occurrence | Note |
 |--|--|--|
@@ -94,8 +97,28 @@ Warning: these pages will contain spoilers!
 
 #### Notes
 
-- The mission script references `text_505010.txt` as the death script, which actually happens to be the mission accomplished briefing for the Arizona campaign level map. But as with other death scripts, it is never actually called and shown.
+- The mission script references `text_505010.txt` as the player death text, which actually happens to be the mission accomplished briefing for the Arizona campaign level map. But as with other player death texts, it is never actually called and shown.
 - It's not possible to kill all the Guardians in the level as one soldier is stuck in the void and cannot be reached.
+
+
+### Level 5 (Arizona)
+
+| File | Occurrence | Note |
+|--|--|--|
+| [text_505000.txt](./Data_m/C1_txt/C1_fhll/text_505000.txt) | Opening briefing |  |
+| [text_505010.txt](./Data_m/C1_txt/C1_fhll/text_505010.txt) | Mission accomplished |  |
+| [text_505050.txt](./Data_m/C1_txt/C1_fhll/text_505050.txt) | Meeting the Chinchillas |  |
+| [text_505060.txt](./Data_m/C1_txt/C1_fhll/text_505060.txt) | Meeting the Rain Warriors |  |
+| [text_505070.txt](./Data_m/C1_txt/C1_fhll/text_505070.txt) | Meeting the Manitoos |  |
+| [text_505080.txt](./Data_m/C1_txt/C1_fhll/text_505080.txt) | Paying the tribute to the Chinchillas |  |
+| [text_505090.txt](./Data_m/C1_txt/C1_fhll/text_505090.txt) | Meeting the Yellow Knives |  |
+| [text_505100.txt](./Data_m/C1_txt/C1_fhll/text_505100.txt) | Paying the tribute to the Manitoos |  |
+| [text_505120.txt](./Data_m/C1_txt/C1_fhll/text_505120.txt) | Death of the Sea Folk |  |
+
+#### Notes
+
+- The mission script references `text_501110.txt` from the [first campaign level](#level-1-der-aufbruch--the-departure) as the player death text, but it's never actually shown.
+- Furthermore, the mission script also uses `text_501111.txt` as the death texts for various npcs. This briefing is broken in the German version.
 
 
 
