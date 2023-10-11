@@ -1,0 +1,38 @@
+<setdatafileid:26><anchor:0>
+<font:1><block:2><color:3>
+<onscreencallback:1,506000,0>
+\n
+FORTRESS OF THE RAIN GOD
+<font:3>
+\n
+\n
+<picture:260>
+We all got together to discuss how to proceed.
+Many voices were loud that wanted to return home.
+This fight would be the fight of the Vinlanders, who we have already helped more than even the gods could expect. Our debt of honor is therefore more than repaid.
+\n
+\n
+Full of horror, they remembered the battles with the mighty people from the south, against whom we had fought just two summers ago with so much heroism, but also just as much luck.
+And this new enemy was even more terrible!
+\n
+\n
+After three days of rest and deliberations, we finally decided to part ways.
+Myself and a few of the bravest men and women wanted to get to the bottom of the mystery of the Rain God and, if possible, put an end to the atrocities and depredations. The others began their journey home on the same day.
+\n
+\n
+In order not to be discovered prematurely, from now on we only traveled under the cover of darkness. During the day, however, we hid in the woods, so our progress was slow.
+\n
+\n
+It took many nights until the cult's capital finally appeared before us from a thick fog. From afar we saw a sea of lights from hundreds of buildings on a high rocky plateau, at the sight of which even the bravest of us lost our courage...
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Find a way to stop the cult of the Rain God.
+\n
+\n

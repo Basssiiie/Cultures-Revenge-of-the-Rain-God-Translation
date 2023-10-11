@@ -1,0 +1,28 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+After he got his dishes and we also provided them to the rest of his tribe, Zumahintazu became more talkative.
+\n
+\n
+At first he wanted to avoid us, but then he stuck to his word. He looked around in all directions, as if he expected the Rain God himself to be standing behind the nearest tree, and told us the carefully guarded secret of his tribe:
+\n
+\n
+When they had to build the city, the building materials were transported over a hidden mountain pass. The followers of the Rain God thought this narrow gorge was closed, but it still existed! Nobody would expect an attack from this direction.
+\n
+\n
+The entrance was well hidden at a small lake in the middle of the jungle, northeast of their village, next to a waterfall that plunged thunderously into the depths.
+\n
+\n
+Could we trust him or was the whole thing a devious trap by Quetzalcoatl?
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+If you believe Zumahintazu, find the secret entrance to the city of the Rain God
+\n
+\n

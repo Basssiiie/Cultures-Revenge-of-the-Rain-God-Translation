@@ -1,0 +1,13 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+In a dry desert area where nothing grew except cacti, we encountered the Vinlander tribe of the Cloud Eyes.
+\n
+\n
+They looked frightened and ragged and were unlikely to be of any help to us. But they received us friendly. Maybe we could trade with them?
+\n
+\n
+<icon:0>
+\n
+\n

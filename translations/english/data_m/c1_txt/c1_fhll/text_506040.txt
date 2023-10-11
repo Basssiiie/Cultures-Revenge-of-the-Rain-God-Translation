@@ -1,0 +1,35 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+A small Mayan city rose on the sea coast. Our scout initially thought it was a Rain Warrior outpost and would have already lost his life when the Mayans discovered him.
+\n
+\n
+So he was very surprised when he was greeted warmly and we were invited to their village. The Cuazinta, we learned from them, had long been suffering from the followers of the Rain God.
+\n
+\n
+They themselves did not share their faith, which is why they were subjugated and forced to pay high taxes. Regardless, they prepared a meager banquet for us from the last of their food. So not all Mayans were bloodthirsty savages!
+\n
+\n
+In the evening, their wise leader Montemantu took me aside, and despite the danger that Quetzalcoatl might punish him, he revealed to us the Rain Cult's greatest weakness. If we succeed in destroying their great temple and driving out the god, then victory would be assured!
+\n
+\n
+We were looking for a clue like this! Now we had a real chance to stand up to the overwhelming odds.
+\n
+\n
+As we were about to set off again, Montemantu stopped us again and promised us friendship and rich trade relations if we could give some of our iron tools to his people.
+\n
+\n
+He was clearly uncomfortable asking us to do this, but Quetzalcoatl had robbed them of all their possessions.
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Deliver the desired iron tools to the Cuazinta if you want to help them (as a tribute payment).
+\n
+\n

@@ -14,6 +14,7 @@ Warning: these pages will contain spoilers!
 | 3. | [c2_03_a_txt.ini](./Data_m/c2_03_a_txt.ini) | Die Fährte | [The Trail](#level-3-die-fährte--the-trail) |
 | 4. | [c2_04_a.txt.ini](./Data_m/c2_04_a.txt.ini) | Die Höhle der Offenbarung | [The Cave of Revelation](#level-4-die-höhle-der-offenbarung--the-cave-of-revelation) |
 | 5. | [c1_md_05_txt.ini](./Data_m/c1_md_05_txt.ini) | Arizona | [Arizona](#level-5-arizona) |
+| 6. | [c1_md_06_txt.ini](./Data_m/c1_md_06_txt.ini) | Die Festung des Regengottes | [Fortress of the Rain God](#level-6-die-festung-des-regengottes--fortress-of-the-rain-god) |
 
 ## Level briefings
 
@@ -120,6 +121,19 @@ Warning: these pages will contain spoilers!
 - The mission script references `text_501110.txt` from the [first campaign level](#level-1-der-aufbruch--the-departure) as the player death text, but it's never actually shown.
 - Furthermore, the mission script also uses `text_501111.txt` as the death texts for various npcs. This briefing is broken in the German version.
 
+
+### Level 6 (Die Festung des Regengottes / The Fortress of the Rain God)
+
+| File | Occurrence | Note |
+|--|--|--|
+| [text_506000.txt](./Data_m/C1_txt/C1_fhll/text_506000.txt) | Opening briefing |  |
+| [text_506010.txt](./Data_m/C1_txt/C1_fhll/text_506010.txt) | Mission accomplished |  |
+| [text_506030.txt](./Data_m/C1_txt/C1_fhll/text_506030.txt) | Paying the tribute to the Cuazinta |  |
+| [text_506040.txt](./Data_m/C1_txt/C1_fhll/text_506040.txt) | Meeting the Cuazinta |  |
+| [text_506050.txt](./Data_m/C1_txt/C1_fhll/text_506050.txt) | Meeting the Rain Warriors |  |
+| [text_506060.txt](./Data_m/C1_txt/C1_fhll/text_506060.txt) | Meeting the Tzulucetl |  |
+| [text_506070.txt](./Data_m/C1_txt/C1_fhll/text_506070.txt) | Meeting the Cloud Eyes |  |
+| [text_506080.txt](./Data_m/C1_txt/C1_fhll/text_506080.txt) | Paying the tribute to the Tzulucetl |  |
 
 
 ## General briefings

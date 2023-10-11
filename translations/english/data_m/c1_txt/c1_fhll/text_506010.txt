@@ -1,0 +1,30 @@
+<setdatafileid:0><anchor:0>
+<font:1><block:2><color:3>
+\n
+Mission accomplished!
+\n
+\n
+<font:3>
+<picture:200>
+We had won! The temple of the Rain God had fallen!
+\n
+<onscreencallback:1,506010,0>
+\n
+When the followers of the cult saw this, they lost courage and immediately laid down their weapons. Their God, it must have seemed to them, had abandoned them. Quetzalcoatl had fled!
+\n
+\n
+What the Mayans did not know: I had seen him during the fight! For a brief moment our eyes met and I recognized him! And at that moment the whole truth suddenly became clear to me!
+\n
+\n
+The alleged god and his terrible guard were not beings from the realm of the gods. No, they were flesh and blood people. Just like us. They were Vikings!
+\n
+\n
+The man who had brought chaos and destruction to this strange land was none other than my own uncle, whom we had had to leave behind two years ago during our search for the sun stones and had believed lost ever since!
+\n
+\n
+If I hadn't seen him with my own eyes, I would never have believed it! All the sadness for him and the tears I had shed for him now turned to anger. Only out of greed for gold and power did he blind an entire people and plunge so many people into misfortune.
+\n
+\n
+The old shaman's words suddenly made sense! I had to find my uncle, because as long as he was free he would continue to cause mischief...
+\n
+\n
