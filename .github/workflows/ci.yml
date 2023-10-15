@@ -1,3 +1,6 @@
+# Run locally with `act`:
+#  > act -P ubuntu-latest=ghcr.io/catthehacker/ubuntu:pwsh-latest
+
 name: ci
 
 on:
@@ -15,4 +18,4 @@ jobs:
       - uses: actions/checkout@v2
       - shell: pwsh
         run: |
-          Invoke-Pester ./tests/* -CI -Passthru
+          Invoke-Pester ./tests/* -CI -Output Detailed -Passthru

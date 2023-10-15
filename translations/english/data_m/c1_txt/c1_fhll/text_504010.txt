@@ -7,7 +7,7 @@ Mission accomplished!
 <font:3>
 <picture:200>
 Emaciated and half blinded by the darkness, we entered a huge cave.
-<onscreencallback:1.504010.0>
+<onscreencallback:1,504010,0>
 The vault stretched like the wide sky and was lost in the darkness above our heads.
 \n
 \n

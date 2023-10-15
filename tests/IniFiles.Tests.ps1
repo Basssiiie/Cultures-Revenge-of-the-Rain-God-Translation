@@ -1,12 +1,9 @@
-Import-Module Pester -Passthru
-
 BeforeDiscovery {
     $files = Get-ChildItem "./translations/english/data_m/*.ini"
 }
 
-Describe "INI map string files" {
+Describe "Map string *.ini files" {
 	It "Files exist" -ForEach @{ files = $files } {
-		Write-Output $files
 		$files.Count | Should -BeGreaterThan 5
 
 		$filenames = $files | Select-Object -ExpandProperty Name
@@ -16,7 +13,7 @@ Describe "INI map string files" {
 
     It "Valid ini file: <_.Name>" -ForEach $files {
 
-		$lines = Get-Content $_.FullName
+		$lines = Get-Content $_.FullName -Encoding "windows-1252"
 		$count = 1;
 		foreach ($line in $lines)
 		{
