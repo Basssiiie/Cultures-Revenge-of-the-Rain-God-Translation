@@ -51,6 +51,10 @@ Describe "Map briefing *.txt files" {
 
 				$idx = $end
 			}
+			else
+			{
+				$character | Should -Not -Be ">"
+			}
 		}
     }
 }
