@@ -15,13 +15,20 @@ This is an English community translation pack for Revenge of the Rain Gods, a mi
 
 This pack contains the following changes so far:
 
-- The first 4 campaign levels of 'Revenge of the Rain Gods' in English.
+- All campaign levels of 'Revenge of the Rain Gods' in English.
 - Enabled the available built-in English language files for various menu's and adds missing strings.
 
 ### Planned
 
-- The rest of the campaign levels.
 - The new scenario's added by the mission pack.
+
+#### Maybe?
+
+- Campaign intro/outro movies.
+- Briefing voice-overs.
+- Import English translations from the base game.
+- Multiplayer maps?
+- In-game manual.
 
 ## Requirements
 

@@ -15,6 +15,7 @@ Warning: these pages will contain spoilers!
 | 4. | [c2_04_a.txt.ini](./Data_m/c2_04_a.txt.ini) | Die Höhle der Offenbarung | [The Cave of Revelation](#level-4-die-höhle-der-offenbarung--the-cave-of-revelation) |
 | 5. | [c1_md_05_txt.ini](./Data_m/c1_md_05_txt.ini) | Arizona | [Arizona](#level-5-arizona) |
 | 6. | [c1_md_06_txt.ini](./Data_m/c1_md_06_txt.ini) | Die Festung des Regengottes | [Fortress of the Rain God](#level-6-die-festung-des-regengottes--fortress-of-the-rain-god) |
+| 7. | [c1_md_07_txt.ini](./Data_m/c1_md_07_txt.ini) | Tag Der Entscheidung | [Decision Day](#level-7-tag-der-entscheidung--decision-day) |
 
 ## Level briefings
 
@@ -122,7 +123,7 @@ Warning: these pages will contain spoilers!
 - Furthermore, the mission script also uses `text_501111.txt` as the death texts for various npcs. This briefing is broken in the German version.
 
 
-### Level 6 (Die Festung des Regengottes / The Fortress of the Rain God)
+### Level 6 (Die Festung des Regengottes / Fortress of the Rain God)
 
 | File | Occurrence | Note |
 |--|--|--|
@@ -134,6 +135,29 @@ Warning: these pages will contain spoilers!
 | [text_506060.txt](./Data_m/C1_txt/C1_fhll/text_506060.txt) | Meeting the Tzulucetl |  |
 | [text_506070.txt](./Data_m/C1_txt/C1_fhll/text_506070.txt) | Meeting the Cloud Eyes |  |
 | [text_506080.txt](./Data_m/C1_txt/C1_fhll/text_506080.txt) | Paying the tribute to the Tzulucetl |  |
+
+#### Notes
+
+- As previously, `text_501110.txt` is referenced as player death script and `text_501111.txt` as death script for the Cuazinta and Tzulucetl.
+
+
+### Level 7 (Tag Der Entscheidung / Decision Day)
+
+| File | Occurrence | Note |
+|--|--|--|
+| [text_507000.txt](./Data_m/C1_txt/C1_fhll/text_507000.txt) | Opening briefing |  |
+| [text_507010.txt](./Data_m/C1_txt/C1_fhll/text_507010.txt) | Mission accomplished |  |
+| [text_507040.txt](./Data_m/C1_txt/C1_fhll/text_507040.txt) | Meeting the Zintapinta |  |
+| [text_507050.txt](./Data_m/C1_txt/C1_fhll/text_507050.txt) | Meeting the Rain Warriors |  |
+| [text_507060.txt](./Data_m/C1_txt/C1_fhll/text_507060.txt) | Paying the tribute to the Zintapinta |  |
+| [text_507080.txt](./Data_m/C1_txt/C1_fhll/text_507080.txt) | Meeting the clan of Maradorn |  |
+| [text_507090.txt](./Data_m/C1_txt/C1_fhll/text_507090.txt) | Clan of Maradorn starts attacking |  |
+| [text_507100.txt](./Data_m/C1_txt/C1_fhll/text_507100.txt) | Meeting the Vinlanders |  |
+
+#### Notes
+
+- As previously, `text_501110.txt` is referenced as player death script and `text_501111.txt` as death script for the Zintapinta.
+- The mission accomplished briefing, `text_507010.txt`, is never actually shown. When the level is completed, the game starts the campaign ending movie and after that the player is redirected back to the main menu.
 
 
 ## General briefings

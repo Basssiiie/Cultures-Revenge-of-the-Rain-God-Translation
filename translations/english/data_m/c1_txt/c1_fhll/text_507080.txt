@@ -1,0 +1,20 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+\n
+"Greetings, brothers", was spoken by a familiar voice, and our scouts received a harsh embrace. It was the clan of Maradorn, the great warrior, who had landed here to look for us.
+\n
+\n
+They had kept their word and came to our aid when we needed it most. As soon as we had enough warriors of our own, they would begin the attack!
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Build your army to at least 40 men to defeat the false Rain God together with the clan of Maradorn.
+\n
+\n

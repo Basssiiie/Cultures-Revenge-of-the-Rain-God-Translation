@@ -1,0 +1,35 @@
+<setdatafileid:27><anchor:0>
+<font:1><block:2><color:3>
+<onscreencallback:1,507000,0>
+\n
+Decision Day
+\n
+\n
+<font:3>
+<picture:270>
+\n
+Quetzalcoatl, who we now knew was my long-lost uncle, had escaped during the battle at the temple of the rain cult and was now gathering his remaining followers to raise a new army in the south. We could not waste any more time if we wanted to get hold of him.
+\n
+\n
+Fortunately, we had found the dragon ship in the south that my uncle had once used to land on this coast. Although it was damaged, it only took us a few days to repair it.
+\n
+\n
+While a small group tended to the wounded on both sides, we set out with a handful of select men and women to stop the false Rain God from bringing more suffering to this land.
+\n
+\n
+A few days later we landed on a remote coast where, according to reports from our allies, there was an ancient temple complex in the middle of a vast, inaccessible swamp area. The ideal place for my uncle and his dark machinations!
+\n
+\n
+So now we, with our small band of brave heroes, stood against a huge force, far away from all our allies. Everything would be decided here!
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Destroy Quetzalcoatl!
+\n
+\n

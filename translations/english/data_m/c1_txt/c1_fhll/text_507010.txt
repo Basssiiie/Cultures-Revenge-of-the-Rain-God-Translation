@@ -1,0 +1,23 @@
+<setdatafileid:0><anchor:0>
+<font:1><block:2><color:3>
+\n
+Mission accomplished!
+\n
+<font:3>
+<picture:200>
+With the help of our friends, we finally won!
+The followers of the Rain God and
+<onscreencallback:1,507010,0>
+the traitorous Vikings were defeated or fled in all directions. The great Quetzalcoatl, my uncle, had failed.
+\n
+\n
+Now peace could finally return to this great country. And to ensure that it stayed that way, from now on the Vikings would stay away from the land of the Vinlander people.
+\n
+\n
+For ten days and nights we celebrated a lavish festival together, which future generations would still be able to tell about. Many friendships were made and songs were sung about the shared heroic deeds of the Vikings and Vinlanders.
+\n
+\n
+On the eleventh day we set sail, richly presented with food and good wishes for the long journey home.
+But we took another special treasure home with us: the knowledge that we had forever won a place in the hearts of this proud, indomitable people.
+\n
+\n
