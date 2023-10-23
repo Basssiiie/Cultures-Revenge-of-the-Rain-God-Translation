@@ -81,7 +81,7 @@ The `-Force` and `-SkipPublisherCheck` are required on Windows 10 to override th
 
 After Pester is installed, you can run the tests in the folder where this readme is located with the following command:
 ```bash
-Invoke-Pester ./tests/* -CI -Passthru
+Invoke-Pester ./tests/* -Output Detailed
 ```
 
 #### Docker

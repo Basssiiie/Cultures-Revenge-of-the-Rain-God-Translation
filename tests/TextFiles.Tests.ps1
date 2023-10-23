@@ -13,7 +13,7 @@ Describe "Map briefing *.txt files" {
 
     It "Valid txt file: <_.Name>" -ForEach $files {
 
-		$content = Get-Content $_.FullName -Raw -Encoding "windows-1252"
+		$content = [IO.File]::ReadAllText($_.FullName, [Text.Encoding]::GetEncoding(1252))
 		$length = $content.Length;
 
 		for ($idx = 0; $idx -lt $length; $idx++)

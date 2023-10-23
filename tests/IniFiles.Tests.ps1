@@ -13,13 +13,13 @@ Describe "Map string *.ini files" {
 
     It "Valid ini file: <_.Name>" -ForEach $files {
 
-		$lines = Get-Content $_.FullName -Encoding "windows-1252"
+		$lines = [IO.File]::ReadAllLines($_.FullName, [Text.Encoding]::GetEncoding(1252))
 		$count = 1;
 		foreach ($line in $lines)
 		{
 			if($count -eq 1)
 			{
-				$line | Should -Be "[Text]"
+				$line | Should -Be "[text]"
 			}
 			elseif($count -gt 1 -and $line.StartsWith("sn "))
 			{
