@@ -64,6 +64,12 @@ Follow these steps to make the game run in windowed mode, instead of full-screen
 
 This project is open to contributions from others! If you want to pick up a translation, it may be a good idea to make an issue to give me a heads-up.
 
+The project structured with the following folders:
+
+- `translations`: contains the files with the translations for the game.
+- `documentation`: contains information about specific translated levels, [see here](./documentation/README.md).
+- `tests`: contains some automated test scripts to validate the submitted translations.
+
 ### Running tests
 
 There are two options for running the tests locally: either via Docker or via Powershell with Pester.
