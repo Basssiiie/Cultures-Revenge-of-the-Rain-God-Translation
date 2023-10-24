@@ -1,0 +1,25 @@
+<setdatafileid:0><anchor:0>
+<font:3><block:2><color:3>
+\n
+\n
+\n
+\n
+\n
+<picture:0>
+\n
+\n
+Ahem... Hello, you again?? What are you doing here again? Nobody should ever come here!
+\n
+But you will never discover our secret!
+\n
+\n
+<font:4>
+Just don't come too close to us!
+<font:3>
+\n
+\n
+\n
+<picture:0>
+\n
+\n
+\n
