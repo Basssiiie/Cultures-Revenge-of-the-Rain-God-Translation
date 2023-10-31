@@ -88,7 +88,7 @@ To create a build:
 
 The output of the build will be placed in the `./dist` folder. These files act like a release of the translation pack and can be copy/pasted over the Cultures installation folder. The `dist` folder will be cleared before every build.
 
-The build script will download the [Cultures file converters made by Mikulus](https://culturesnation.pl/serwerdownload.php?cat_id=8&download_id=403) to the `./bin` folder and run it using Python to convert some of the files to the appropriate format.
+The build script will download the [Cultures file converters made by Mikulus](https://culturesnation.pl/serwerdownload.php?cat_id=8&download_id=403#go) to the `./bin` folder and run it using Python to convert some of the files to the appropriate format.
 
 
 ### Running tests
