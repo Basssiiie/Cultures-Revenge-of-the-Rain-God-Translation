@@ -13,9 +13,10 @@ This is an English community translation pack for Revenge of the Rain Gods, a mi
 
 ## Features
 
-This pack contains the following changes so far:
+This pack contains the following translation changes so far:
 
-- All campaign levels of 'Revenge of the Rain Gods' in English.
+- All campaign levels of 'Revenge of the Rain Gods'.
+- The secret easter egg level.
 - Enabled the available built-in English language files for various menu's and adds missing strings.
 
 ### Planned
@@ -28,7 +29,7 @@ This pack contains the following changes so far:
 - Briefing voice-overs.
 - Import English translations from the base game.
 - Multiplayer maps?
-- In-game manual.
+- In-game manual?
 
 ## Requirements
 
