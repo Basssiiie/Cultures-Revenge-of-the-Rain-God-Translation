@@ -70,6 +70,27 @@ The project structured with the following folders:
 - `documentation`: contains information about specific translated levels, [see here](./documentation/README.md).
 - `tests`: contains some automated test scripts to validate the submitted translations.
 
+### Building the project
+
+To build the project, you need to have the following dependencies installed:
+
+1. Powershell or Powershell Core.
+2. Python 3, available as `python` in the `PATH` environment variable.
+
+To create a build:
+
+1. Start Powershell.
+2. Navigate to the project's folder using `cd`.
+3. Run the following command:
+```ps
+./build.ps1
+```
+
+The output of the build will be placed in the `./dist` folder. These files act like a release of the translation pack and can be copy/pasted over the Cultures installation folder. The `dist` folder will be cleared before every build.
+
+The build script will download the [Cultures file converters made by Mikulus](https://culturesnation.pl/serwerdownload.php?cat_id=8&download_id=403) to the `./bin` folder and run it using Python to convert some of the files to the appropriate format.
+
+
 ### Running tests
 
 There are two options for running the tests locally: either via Docker or via Powershell with Pester.
@@ -79,14 +100,14 @@ There are two options for running the tests locally: either via Docker or via Po
 Running the tests via Pester requires only installing the Pester module on Windows. On other platforms you need to install [Powershell](https://github.com/PowerShell/PowerShell#readme) as well (it's multi-platform).
 
 First install Pester for Powershell via:
-```bash
+```ps
 Install-Module -Name Pester -Force -SkipPublisherCheck -Scope CurrentUser
 ```
 
 The `-Force` and `-SkipPublisherCheck` are required on Windows 10 to override the older version of Pester that ships with Windows ([see here](https://pester.dev/docs/introduction/installation#installing-from-psgallery-on-windows-10-or-windows-server-2016)).
 
 After Pester is installed, you can run the tests in the folder where this readme is located with the following command:
-```bash
+```ps
 Invoke-Pester ./tests/* -Output Detailed
 ```
 
