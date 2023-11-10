@@ -1,0 +1,27 @@
+<setdatafileid:0>
+<anchor:0>
+<font:1>
+<block:2>
+<color:0>
+\n
+<font:1>
+Tenochtitlan
+<font:2>
+\n
+\n
+The fertile plains of Tenochtitlan stretch out before you.
+\n
+\n
+You would like to settle here, but the area belongs to the ancestral land of the Aztec people.
+\n
+\n
+Your king generously gives you the land as a fief... if you can afford the tribute.
+\n
+\n
+\n
+GOALS:
+\n
+\n
+Pay the required tribute!
+\n
+\n
