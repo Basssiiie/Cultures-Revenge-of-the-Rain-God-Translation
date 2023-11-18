@@ -11,22 +11,25 @@ if (!(Test-Path -Path "./bin"))
 }
 
 # Remove the old build files
-Remove-Item "./dist"
+$output = "./dist"
+Remove-Item "$output"
 
-# Copy the raw text files that do not need
+# Copy the raw text files that do not need conversion
 $language = "english"
-Copy-Item "./translations/$language/data_m" "./dist/data_m" -Recurse
+$root = "./translations/$language"
+Copy-Item "$root/data_m/c1_txt" "$output/data_m/c1_txt" -Recurse
 
-New-Item -ItemType Directory -Path "./dist/data/gui"
+New-Item -ItemType Directory -Path "$output/data/gui"
 
 # Convert the other files that need to be compiled
-@"
-5
-./translations/$language/game.ini
-./dist/game.cif
-9
-./translations/$language/data/gui/language_eng.txt
-./dist/data/gui/language_eng.tab
-"@ | python "./bin/converters/source_code/main.py"
+$core = @(
+	"5`n$root/game.ini`n$output/game.cif",
+	"9`n$root/data/gui/language_eng.txt`n$output/data/gui/language_eng.tab"
+)
+$maps = Get-Item "$root/data_m/*.ini" `
+	| ForEach-Object { "5`n$($_.FullName)`n$output/data_m/$($_.BaseName).cif" }
 
-Write-Host "`nBuild succeeded!`nTranslation pack created in: ./dist" -ForegroundColor Green
+$files = ($core + $maps) -join "`n"
+$files -join "`n" | python "./bin/converters/source_code/main.py"
+
+Write-Host "`nBuild succeeded!`nTranslation pack created in: $output" -ForegroundColor Green
