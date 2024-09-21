@@ -29,7 +29,6 @@ $core = @(
 $maps = Get-Item "$root/data_m/*.ini" `
 	| ForEach-Object { "5`n$($_.FullName)`n$output/data_m/$($_.BaseName).cif" }
 
-$files = ($core + $maps) -join "`n"
-$files -join "`n" | python "./bin/converters/source_code/main.py"
+$files = ($core + $maps) -join "`n" | python "./bin/converters/source_code/main.py"
 
 Write-Host "`nBuild succeeded!`nTranslation pack created in: $output" -ForegroundColor Green
