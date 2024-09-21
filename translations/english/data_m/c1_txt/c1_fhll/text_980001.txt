@@ -1,0 +1,38 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+THE RUNE CIRCLE
+\n
+<font:3>
+\n
+Early one morning, the druid of your tribe comes running to you nervously and tells of a strange sign from the gods that has kept him awake.
+\n
+\n
+Beyond the fish-rich mountain lakes there must be an ancient, abandoned burial mound. This burial mound is said to be surrounded by a rune circle that only the Vikings know. This was probably a holy place of the forefathers.
+\n
+\n
+But in the meantime the area near the rune circle has been occupied by a hostile Vinlander tribe and the sacred ground must have been desecrated.
+\n
+\n
+The druid reports that the gods would be angry about disturbing the peace of the holy place.
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+First, build a main camp and secure the food of your people.
+\n
+\n
+Then train enough Vikings to become warriors to drive the hostile Vinlanders from sacred ground.
+\n
+\n
+Build a brewery to supply your warriors with food on their quest for the rune circle.
+\n
+\n
+Also explore the surrounding area and look for other tribes to trade for necessary resources and get allies.
+\n
+\n

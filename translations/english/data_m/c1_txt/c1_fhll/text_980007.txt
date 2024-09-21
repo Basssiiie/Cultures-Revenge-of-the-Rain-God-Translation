@@ -1,0 +1,8 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+Your brave Vikings fought the numerically superior enemy, liberated the rune circle and destroyed the temple of the Vinlanders.
+\n
+\n
+In order to consecrate the burial place of our forefathers again, you now have to build your own temple near the rune circle!
+\n

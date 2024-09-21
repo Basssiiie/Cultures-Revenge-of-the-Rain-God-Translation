@@ -1,0 +1,28 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+Two Vinlanders with feather headdresses emerge from the shade of a group of trees.
+\n
+\n
+"Greetings, travelers!
+\n
+\n
+We are scouts for the Nightingale tribe. We guard the bridge that leads to Black Leather tribe's territory. This tribe is very warlike and will not hesitate to attack anyone who comes too close to their territory.
+\n
+\n
+If you want to pass the bridge, be warned!
+\n
+\n
+The camp of the Black Leather's warriors begins on the other side of the river. The southern bank of the river is exceptionally well fortified and a large number of fighters are stationed here.
+\n
+\n
+If you're looking for a better route south to reach Black Leather's territory, look for a passage to the western bank in the area of the rapids and waterfalls!
+\n
+Cross the hills and follow the valley west where the wild flowers bloom and herds of bison graze. There you will find our main camp, where you can stock up and trade.
+\n
+\n
+If you then go south, you will find the main camp of the Black Leather tribe via a hidden passage.
+\n
+\n
+We wish you good luck on your journeys, strangers!"
+\n

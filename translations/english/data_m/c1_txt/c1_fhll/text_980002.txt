@@ -1,0 +1,16 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+Your brewery is built!
+\n
+<font:3>
+\n
+After your hard-working workers have built the brewery, you should focus on training a sufficient number of warriors.
+\n
+\n
+Then equip your warriors with the beer produced to help bear the long journey to the enemy Vinlander settlement.
+\n
+\n
+Once you have trained your Viking warriors, search for the rune circle and find the Vinlanders that occupy the sacred ground of our forefathers. Destroy their temple that is near the rune circle and then consecrate the sacred ground by building a new temple of your own.
+\n
+\n

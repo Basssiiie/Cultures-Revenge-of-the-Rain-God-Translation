@@ -1,0 +1,16 @@
+<setdatafileid:0>
+<anchor:0>
+<font:1>
+<block:2>
+<color:0>
+\n
+<font:1>
+Mission accomplished!
+\n
+<font:3>
+\n
+Odin is extremely pleased with you! At Valhalla's long banquet the heroes will speak your name with reverence! In their songs future generations will sing of your glorious victory!
+\n
+\n
+With the bows of the Fire Arrows and the large number of Vikings, you have made your people strong enough to withstand Odin's coming trials.
+\n

@@ -1,0 +1,18 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+Congratulations! You have completed the mission.
+\n
+<font:3>
+\n
+You have built a functioning settlement with a brewery.
+\n
+\n
+Your Vikings have reclaimed the ancient sacred place of our forefathers.
+\n
+\n
+You have blessed the runic circle and the burial mound with the new temple.
+\n
+\n
+The gods of Valhalla are more than happy with your performance. May they protect you and your people as you move forward!
+\n

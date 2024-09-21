@@ -1,0 +1,34 @@
+<setdatafileid:0>
+<anchor:0>
+<font:1>
+<block:2>
+<color:0>
+\n
+THE  DRAGONTOOTH  MOUNTAINS
+\n
+<font:3>
+\n
+The Vikings must explore the fertile land to discover the pass over the Dragontooth Mountains. The tribe of the Fire Arrows is said to live behind the mountains and they make very good bows.
+\n
+\n
+Contact the Chief "Howling Coyote" and get 40 bows through trade with the people of the Fire Arrows tribe!
+\n
+\n
+Expand the Viking outpost efficiently to support a large population and let your tribe grow to 60 inhabitants!
+\n
+\n
+The bows you acquire will make your people stronger and ensure their survival.
+\n
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Reach a population of 60 people
+\n
+Trade 40 bows from the people of the Fire Arrows tribe
+\n
+\n

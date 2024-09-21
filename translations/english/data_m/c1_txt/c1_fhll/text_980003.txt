@@ -1,0 +1,22 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+The chief of a friendly Inuit tribe welcomes you:
+\n
+\n
+"Welcome to our outpost here at the foot of the glacier, strangers!
+\n
+I am Laniut Frostbreath, the leader of this tribe.
+\n
+\n
+We look forward to making your acquaintance. We have heard that your people can make good furniture, dishes, and tools. We would like to trade with you. Oh yes, our medicine man also told me that we are also very interested in the brew you call beer and your oil...
+\n
+\n
+We hope for a good trade contact and wish you good luck with your projects.
+\n
+\n
+I would like to give you another warning:
+\n
+We heard about a belligerent Vinlander tribe in the south. These Vinlanders attack any traveler who comes too close to their territory. Be careful of them and take good precautions on your journeys to the south!"
+\n
+\n

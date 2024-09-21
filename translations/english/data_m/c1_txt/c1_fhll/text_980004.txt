@@ -1,0 +1,21 @@
+<setdatafileid:1><anchor:0>
+<font:3><block:2><color:3>
+\n
+Renibo 'He Who Speaks To The Spirits', sage and medicine man of the Nightingale Vinlanders, welcomes you:
+\n
+\n
+"By the great Manitoo, you have invaded our territory. What do you want here?
+\n
+\n
+If you are allies of the Black Leather tribe, I advise you to get away as quickly as possible!
+\n
+\n
+We are at war with the Black Leather tribe, who want to steal our land. Thanks to our brave warriors, we have been able to fend off the countless attacks to this day, and you won't be able to defeat us either!
+\n
+\n
+If you have nothing to do with the Black Leather tribe, you should show us your good intentions by bringing us 20 beers (as tribute) to appease our Council of Wise Men. If you pass this test, we will exchange goods with you.
+\n
+\n
+Our craftsmen produce excellent spears and bows as well as armor. We will see you as our new allies and count on you to join us in fighting the Black Leather's warriors. For a reasonable payment we can also send you Vinlander warriors as mercenaries."
+\n
+\n
