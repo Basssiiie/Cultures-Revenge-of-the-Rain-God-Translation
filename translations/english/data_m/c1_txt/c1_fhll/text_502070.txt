@@ -21,6 +21,9 @@ But who were these creepy strangers? Had the Yellow Knives served us horror stor
 We didn't think twice, but decided to confront the unknown enemy. But where should we start looking? Further north lived the people of the Red Knives tribe. They were the best trackers around. If we could hire a scout from them, we might be able to track down the mysterious strangers.
 \n
 \n
+<icon:0>
+\n
+\n
 GOALS:
 \n
 Hire a tracker from the Red Knives tribe

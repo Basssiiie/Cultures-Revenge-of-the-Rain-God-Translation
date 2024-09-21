@@ -2,7 +2,7 @@
 <font:1><block:2><color:3>
 <onscreencallback:1,507000,0>
 \n
-Decision Day
+DECISION DAY
 \n
 \n
 <font:3>

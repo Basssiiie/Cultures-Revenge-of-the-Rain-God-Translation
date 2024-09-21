@@ -5,7 +5,7 @@
 <color:0>
 \n
 <font:1>
-Tenochtitlan
+TENOCHTITLAN
 <font:2>
 \n
 \n
@@ -17,6 +17,8 @@ You would like to settle here, but the area belongs to the ancestral land of the
 \n
 Your king generously gives you the land as a fief... if you can afford the tribute.
 \n
+\n
+<icon:0>
 \n
 \n
 GOALS:
