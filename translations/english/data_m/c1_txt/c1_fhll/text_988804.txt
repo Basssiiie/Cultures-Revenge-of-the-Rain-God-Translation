@@ -1,0 +1,22 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+Your scout reports:
+\n
+<font:2>
+\n
+In the cold plains of the coastal region there seems to be a dispute between Santa's helpers and the Grumpy Grinches. The Grumpy Grinches are angry because they fear that they won't get any presents for Christmas this year.
+\n
+\n
+They want to prevent Christmas from happening and are not letting Santa and his helpers travel further to the mainland!
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Find Santa Claus
+\n
+\n

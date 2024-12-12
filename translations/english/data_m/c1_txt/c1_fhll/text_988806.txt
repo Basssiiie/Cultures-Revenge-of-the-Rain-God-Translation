@@ -1,0 +1,22 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+Mission accomplished!
+\n
+<font:2>
+\n
+The Grumpy Grinches are happy and content and will no longer bother Santa's helpers! They will continue to throw snowballs around for fun, but these will no longer cause any damage.
+\n
+\n
+Saint Nicholas and his helpers can now move safely on to the mainland to bring the presents to all of the inhabitants of Vinland.
+\n
+\n
+Christmas is saved this year thanks to your brave Vikings, and who knows...
+\n
+maybe soon Santa will come to YOU too!
+\n
+\n
+\n
+<icon:0>
+\n
+\n

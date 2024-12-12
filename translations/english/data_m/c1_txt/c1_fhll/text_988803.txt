@@ -1,0 +1,25 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+Ignur Iceskater (Chief of the Icewind Inuit):
+\n
+<font:2>
+\n
+Greetings brave Vikings!
+\n
+\n
+Thank you very much for the excellent boots you made for us. Not only can Santa fill them with great presents, but they will also keep our feet warm during the harsh winter.
+\n
+\n
+However, there seems to be another problem besides the boots... Please find Saint Nicholas in the coastal area northwest of your camp and find out what's going on there!
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Find Santa Claus
+\n
+\n

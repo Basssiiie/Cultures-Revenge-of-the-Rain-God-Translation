@@ -1,0 +1,25 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+SANTA CLAUS:
+\n
+<font:2>
+\n
+Brave Vikings, I thank you for taking on the arduous search to find me. As you have certainly noticed, the Grumpy Grinches want to prevent Christmas from happening this year. Perhaps you can calm them down and save Christmas for everyone.
+\n
+\n
+The Grumpy Grinches are very difficult to appease, maybe you can get them the only gift that will satisfy them?
+\n
+\n
+Bring them 20 pieces of the shiny yellow metal they love so much.
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Give the Grumpy Grinches 20 pieces of gold (as tribute)!
+\n
+\n

@@ -1,0 +1,25 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+THE SEARCH FOR SANTA CLAUS
+\n
+<font:2>
+\n
+After a long, arduous journey, your Vikings have reached the coasts of the northern sea. Vast ice fields and glaciers stretch to the horizon and a cold wind howls around the ears of the Norsemen.
+\n
+\n
+After a laborious search, they discover a sheltered bay at the foot of a mountain. There, a small river rises that is fed by hot, underground springs and flows in winding paths into the northern sea. This would be an ideal resting place for the tired heroes...
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+First, expand your camp and ensure that your people are fed.
+\n
+\n
+The scouts report tracks in the snow that could have been left by Inuit. Look for the Inuit further north.
+\n
+\n

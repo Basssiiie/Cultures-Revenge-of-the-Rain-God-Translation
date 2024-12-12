@@ -1,0 +1,25 @@
+<setdatafileid:1><anchor:0>
+<font:1><block:2><color:3>
+\n
+Ignur Iceskater (Chief of the Icewind Inuit):
+\n
+<font:2>
+\n
+Greetings brave Vikings!
+\n
+\n
+We are very worried because we have not seen any signs of Saint Nicholas this winter. Might it be because we do not have boots for him to fill with presents.
+\n
+\n
+Would you be able to help us with 20 pairs of shoes? We would be happy to trade with you Vikings.
+\n
+\n
+<icon:0>
+\n
+\n
+GOALS:
+\n
+\n
+Give the Icewind Inuit 20 pairs of boots (shoes).
+\n
+\n

@@ -7,6 +7,7 @@ Warning: these pages will contain spoilers!
 | 1. | [f_017txt.ini](../translations/english/data_m/f_017txt.ini) | Tenochtlan | [Tenochtitlan](#tenochtlan--tenochtitlan) |
 | 2. | [f_020_txt.ini](../translations/english/data_m/f_020_txt.ini) | Die Drachenzahn-Berge | [The Dragontooth Mountains](#die-drachenzahn-berge--the-dragontooth-mountains) |
 | 3. | [f_021_txt.ini](../translations/english/data_m/f_021_txt.ini) | Der Runenkreis | [The Rune Circle](#der-runenkreis--the-rune-circle) |
+| 4. | [f_022_txt.ini](../translations/english/data_m/f_022_txt.ini) | Die Suche nach dem Weihnachtsmann | [The search for Santa Claus](#die-suche-nach-dem-weihnachtsmann--the-search-for-santa-claus) |
 
 ## Tenochtlan / Tenochtitlan
 
@@ -46,3 +47,20 @@ Warning: these pages will contain spoilers!
 | [text_980006.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980006.txt) | Meeting the Nightingale scouts |
 | [text_980007.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980007.txt) | Destroying the Black Leather's temple |
 | [text_980007.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980007.txt) | Mission accomplished |
+
+
+## Die Suche nach dem Weihnachtsmann / The search for Santa Claus
+
+| File | Occurrence |
+|--|--|
+| [text_988801.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988801.txt) | Opening briefing |
+| [text_988802.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988802.txt) | Meeting the Icewind Inuit |
+| [text_988803.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988803.txt) | Paying the tribute to the Icewind Inuit |
+| [text_988804.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988804.txt) | Meeting the Grumpy Grinches |
+| [text_988805.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988805.txt) | Meeting Santa Claus |
+| [text_988806.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988806.txt) | Mission accomplished |
+
+### Notes
+
+- The original German version lists the amount of shoes to be given as tribute to the Icewind Inuit incorrectly as 30 in the objectives window, whereas it is stated as 20 everywhere else.
+- The briefing for meeting Santa Claus will only appear after the tribute to the Icewind Inuit has been made. If you find him before that, this briefing will override and skip the Inuit thank you briefing entirely once the tribute is paid.
