@@ -13,8 +13,8 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence |
 |--|--|
-| [text_203601.txt](../translations/english/data_m/C1_txt/C1_fhll/text_203601.txt) | Opening briefing |
-| [text_203602.txt](../translations/english/data_m/C1_txt/C1_fhll/text_203602.txt) | Mission accomplished |
+| [text_203601.txt](../translations/english/data_m/c1_txt/c1_fhll/text_203601.txt) | Opening briefing |
+| [text_203602.txt](../translations/english/data_m/c1_txt/c1_fhll/text_203602.txt) | Mission accomplished |
 
 ### Notes
 
@@ -25,9 +25,9 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence |
 |--|--|
-| [text_299901.txt](../translations/english/data_m/C1_txt/C1_fhll/text_299901.txt) | Mission accomplished |
-| [text_299902.txt](../translations/english/data_m/C1_txt/C1_fhll/text_299902.txt) | Opening briefing |
-| [text_299903.txt](../translations/english/data_m/C1_txt/C1_fhll/text_299903.txt) | Warning when the player's diplomacy is changed to enemy with the Fire Arrows |
+| [text_299901.txt](../translations/english/data_m/c1_txt/c1_fhll/text_299901.txt) | Mission accomplished |
+| [text_299902.txt](../translations/english/data_m/c1_txt/c1_fhll/text_299902.txt) | Opening briefing |
+| [text_299903.txt](../translations/english/data_m/c1_txt/c1_fhll/text_299903.txt) | Warning when the player's diplomacy is changed to enemy with the Fire Arrows |
 
 ### Notes
 
@@ -39,26 +39,26 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence |
 |--|--|
-| [text_980001.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980001.txt) | Opening briefing |
-| [text_980002.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980002.txt) | Brewery is built |
-| [text_980003.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980003.txt) | Meeting the Inuit |
-| [text_980004.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980004.txt) | Meeting the Nightingale |
-| [text_980005.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980005.txt) | Entering Black Leather territory |
-| [text_980006.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980006.txt) | Meeting the Nightingale scouts |
-| [text_980007.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980007.txt) | Destroying the Black Leather's temple |
-| [text_980007.txt](../translations/english/data_m/C1_txt/C1_fhll/text_980007.txt) | Mission accomplished |
+| [text_980001.txt](../translations/english/data_m/c1_txt/c1_fhll/text_980001.txt) | Opening briefing |
+| [text_980002.txt](../translations/english/data_m/c1_txt/c1_fhll/text_980002.txt) | Brewery is built |
+| [text_980003.txt](../translations/english/data_m/c1_txt/c1_fhll/text_980003.txt) | Meeting the Inuit |
+| [text_980004.txt](../translations/english/data_m/c1_txt/c1_fhll/text_980004.txt) | Meeting the Nightingale |
+| [text_980005.txt](../translations/english/data_m/c1_txt/c1_fhll/text_980005.txt) | Entering Black Leather territory |
+| [text_980006.txt](../translations/english/data_m/c1_txt/c1_fhll/text_980006.txt) | Meeting the Nightingale scouts |
+| [text_980007.txt](../translations/english/data_m/c1_txt/c1_fhll/text_980007.txt) | Destroying the Black Leather's temple |
+| [text_980007.txt](../translations/english/data_m/c1_txt/c1_fhll/text_980007.txt) | Mission accomplished |
 
 
 ## Die Suche nach dem Weihnachtsmann / The search for Santa Claus
 
 | File | Occurrence |
 |--|--|
-| [text_988801.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988801.txt) | Opening briefing |
-| [text_988802.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988802.txt) | Meeting the Icewind Inuit |
-| [text_988803.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988803.txt) | Paying the tribute to the Icewind Inuit |
-| [text_988804.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988804.txt) | Meeting the Grumpy Grinches |
-| [text_988805.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988805.txt) | Meeting Santa Claus |
-| [text_988806.txt](../translations/english/data_m/C1_txt/C1_fhll/text_988806.txt) | Mission accomplished |
+| [text_988801.txt](../translations/english/data_m/c1_txt/c1_fhll/text_988801.txt) | Opening briefing |
+| [text_988802.txt](../translations/english/data_m/c1_txt/c1_fhll/text_988802.txt) | Meeting the Icewind Inuit |
+| [text_988803.txt](../translations/english/data_m/c1_txt/c1_fhll/text_988803.txt) | Paying the tribute to the Icewind Inuit |
+| [text_988804.txt](../translations/english/data_m/c1_txt/c1_fhll/text_988804.txt) | Meeting the Grumpy Grinches |
+| [text_988805.txt](../translations/english/data_m/c1_txt/c1_fhll/text_988805.txt) | Meeting Santa Claus |
+| [text_988806.txt](../translations/english/data_m/c1_txt/c1_fhll/text_988806.txt) | Mission accomplished |
 
 ### Notes
 

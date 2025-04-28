@@ -17,22 +17,22 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence | Note |
 |--|--|--|
-| [text_501000.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501000.txt) | Opening briefing |  |
-| [text_501001.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501001.txt) | Mission accomplished |  |
-| [text_501002.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501002.txt) | Death of the player? | Referenced but never called. |
-| [text_501003.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501003.txt) | Meeting the Snowy Feet |  |
-| [text_501004.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501004.txt) | Meeting the Blue Noses |  |
-| [text_501005.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501005.txt) | Meeting Maradorn, the great warrior |  |
-| [text_501006.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501006.txt) | Meeting Thorwal, the woodcutter |  |
-| [text_501007.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501007.txt) | Paying Thorwal's tribute |  |
-| [text_501008.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501008.txt) | Finding the snow sculpture | See note 1 |
-| [text_501009.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501009.txt) | Finding the grass lands |  |
-| [text_501010.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501010.txt) | Mission accomplished (copy, without the title) | Unused |
-| [text_501011.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501011.txt) | Finding the canoes |  |
-| [text_501012.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501012.txt) | Finding the Mayan ruins |  |
-| [text_501099.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501099.txt) | Mission lost (ship destroyed) |  |
-| [text_501110.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501110.txt) | Death (copy) | See note 2 |
-| [text_501111.txt](../translations/english/data_m/C1_txt/C1_fhll/text_501111.txt) | Mission lost (any npc killed) | See note 3 |
+| [text_501000.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501000.txt) | Opening briefing |  |
+| [text_501001.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501001.txt) | Mission accomplished |  |
+| [text_501002.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501002.txt) | Death of the player? | Referenced but never called. |
+| [text_501003.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501003.txt) | Meeting the Snowy Feet |  |
+| [text_501004.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501004.txt) | Meeting the Blue Noses |  |
+| [text_501005.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501005.txt) | Meeting Maradorn, the great warrior |  |
+| [text_501006.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501006.txt) | Meeting Thorwal, the woodcutter |  |
+| [text_501007.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501007.txt) | Paying Thorwal's tribute |  |
+| [text_501008.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501008.txt) | Finding the snow sculpture | See note 1 |
+| [text_501009.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501009.txt) | Finding the grass lands |  |
+| [text_501010.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501010.txt) | Mission accomplished (copy, without the title) | Unused |
+| [text_501011.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501011.txt) | Finding the canoes |  |
+| [text_501012.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501012.txt) | Finding the Mayan ruins |  |
+| [text_501099.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501099.txt) | Mission lost (ship destroyed) |  |
+| [text_501110.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501110.txt) | Death (copy) | See note 2 |
+| [text_501111.txt](../translations/english/data_m/c1_txt/c1_fhll/text_501111.txt) | Mission lost (any npc killed) | See note 3 |
 
 ### Notes
 1. It seems the snow sculpture event was originally a bit different as it is referred to as "hermit" ("Einsiedler") in the mission code, and there is also an unused mission goal "Find the hermit".
@@ -44,18 +44,18 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence | Note |
 |--|--|--|
-| [text_502000.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502000.txt) | Opening briefing |  |
-| [text_502002.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502002.txt) | Death of Red Knives or the Yellow Knives | Also referenced for death of the player, but never called. |
-| [text_502003.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502003.txt) | Meeting Miguel |  |
-| [text_502006.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502006.txt) | Meeting the Vikings |  |
-| [text_502010.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502010.txt) | Mission accomplished |  |
-| [text_502020.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502020.txt) | Meeting the Blue Bears |  |
-| [text_502030.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502030.txt) | Meeting the Yellow Knives |  |
-| [text_502040.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502040.txt) | Meeting the Red Knives |  |
-| [text_502050.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502050.txt) | Paying the tribute to the Red Knives |  |
-| [text_502060.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502060.txt) | Visited by the Yellow Knives | Only happens if the player has not yet found the Yellow Knives tribe within 1 hour of starting the map. |
-| [text_502070.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502070.txt) | Briefing Yellow Knives |  |
-| [text_502100.txt](../translations/english/data_m/C1_txt/C1_fhll/text_502100.txt) | Hiring the tracker |  |
+| [text_502000.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502000.txt) | Opening briefing |  |
+| [text_502002.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502002.txt) | Death of Red Knives or the Yellow Knives | Also referenced for death of the player, but never called. |
+| [text_502003.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502003.txt) | Meeting Miguel |  |
+| [text_502006.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502006.txt) | Meeting the Vikings |  |
+| [text_502010.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502010.txt) | Mission accomplished |  |
+| [text_502020.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502020.txt) | Meeting the Blue Bears |  |
+| [text_502030.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502030.txt) | Meeting the Yellow Knives |  |
+| [text_502040.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502040.txt) | Meeting the Red Knives |  |
+| [text_502050.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502050.txt) | Paying the tribute to the Red Knives |  |
+| [text_502060.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502060.txt) | Visited by the Yellow Knives | Only happens if the player has not yet found the Yellow Knives tribe within 1 hour of starting the map. |
+| [text_502070.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502070.txt) | Briefing Yellow Knives |  |
+| [text_502100.txt](../translations/english/data_m/c1_txt/c1_fhll/text_502100.txt) | Hiring the tracker |  |
 
 ### Easter eggs
 1. There's a small Star Wars reference on the coast near the left edge of the map.
@@ -66,17 +66,17 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence | Note |
 |--|--|--|
-| [text_503000.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503000.txt) | Opening briefing |  |
-| [text_503002.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503002.txt) | Death of the player? | Referenced but never called. |
-| [text_503004.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503004.txt) | Meeting Miguel |  |
-| [text_503010.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503010.txt) | Mission accomplished |  |
-| [text_503040.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503040.txt) | Meeting the Wood Walkers |  |
-| [text_503050.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503050.txt) | Meeting the Red Wings |  |
-| [text_503060.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503060.txt) | Meeting the Poke Montas |  |
-| [text_503070.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503070.txt) | Meeting the Guardians |  |
-| [text_503080.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503080.txt) | Paying the tribute to the Wood Walkers |  |
-| [text_503090.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503090.txt) | Paying the tribute to the Red Wings |  |
-| [text_503100.txt](../translations/english/data_m/C1_txt/C1_fhll/text_503100.txt) | Paying the tribute to the Poke Montas |  |
+| [text_503000.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503000.txt) | Opening briefing |  |
+| [text_503002.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503002.txt) | Death of the player? | Referenced but never called. |
+| [text_503004.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503004.txt) | Meeting Miguel |  |
+| [text_503010.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503010.txt) | Mission accomplished |  |
+| [text_503040.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503040.txt) | Meeting the Wood Walkers |  |
+| [text_503050.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503050.txt) | Meeting the Red Wings |  |
+| [text_503060.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503060.txt) | Meeting the Poke Montas |  |
+| [text_503070.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503070.txt) | Meeting the Guardians |  |
+| [text_503080.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503080.txt) | Paying the tribute to the Wood Walkers |  |
+| [text_503090.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503090.txt) | Paying the tribute to the Red Wings |  |
+| [text_503100.txt](../translations/english/data_m/c1_txt/c1_fhll/text_503100.txt) | Paying the tribute to the Poke Montas |  |
 
 ### Easter egg & notes
 
@@ -88,8 +88,8 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence | Note |
 |--|--|--|
-| [text_504000.txt](../translations/english/data_m/C1_txt/C1_fhll/text_504000.txt) | Opening briefing |  |
-| [text_504010.txt](../translations/english/data_m/C1_txt/C1_fhll/text_504010.txt) | Mission accomplished |  |
+| [text_504000.txt](../translations/english/data_m/c1_txt/c1_fhll/text_504000.txt) | Opening briefing |  |
+| [text_504010.txt](../translations/english/data_m/c1_txt/c1_fhll/text_504010.txt) | Mission accomplished |  |
 
 ### Notes
 
@@ -101,15 +101,15 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence | Note |
 |--|--|--|
-| [text_505000.txt](../translations/english/data_m/C1_txt/C1_fhll/text_505000.txt) | Opening briefing |  |
-| [text_505010.txt](../translations/english/data_m/C1_txt/C1_fhll/text_505010.txt) | Mission accomplished |  |
-| [text_505050.txt](../translations/english/data_m/C1_txt/C1_fhll/text_505050.txt) | Meeting the Chinchillas |  |
-| [text_505060.txt](../translations/english/data_m/C1_txt/C1_fhll/text_505060.txt) | Meeting the Rain Warriors |  |
-| [text_505070.txt](../translations/english/data_m/C1_txt/C1_fhll/text_505070.txt) | Meeting the Manitoos |  |
-| [text_505080.txt](../translations/english/data_m/C1_txt/C1_fhll/text_505080.txt) | Paying the tribute to the Chinchillas |  |
-| [text_505090.txt](../translations/english/data_m/C1_txt/C1_fhll/text_505090.txt) | Meeting the Yellow Knives |  |
-| [text_505100.txt](../translations/english/data_m/C1_txt/C1_fhll/text_505100.txt) | Paying the tribute to the Manitoos |  |
-| [text_505120.txt](../translations/english/data_m/C1_txt/C1_fhll/text_505120.txt) | Death of the Sea Folk |  |
+| [text_505000.txt](../translations/english/data_m/c1_txt/c1_fhll/text_505000.txt) | Opening briefing |  |
+| [text_505010.txt](../translations/english/data_m/c1_txt/c1_fhll/text_505010.txt) | Mission accomplished |  |
+| [text_505050.txt](../translations/english/data_m/c1_txt/c1_fhll/text_505050.txt) | Meeting the Chinchillas |  |
+| [text_505060.txt](../translations/english/data_m/c1_txt/c1_fhll/text_505060.txt) | Meeting the Rain Warriors |  |
+| [text_505070.txt](../translations/english/data_m/c1_txt/c1_fhll/text_505070.txt) | Meeting the Manitoos |  |
+| [text_505080.txt](../translations/english/data_m/c1_txt/c1_fhll/text_505080.txt) | Paying the tribute to the Chinchillas |  |
+| [text_505090.txt](../translations/english/data_m/c1_txt/c1_fhll/text_505090.txt) | Meeting the Yellow Knives |  |
+| [text_505100.txt](../translations/english/data_m/c1_txt/c1_fhll/text_505100.txt) | Paying the tribute to the Manitoos |  |
+| [text_505120.txt](../translations/english/data_m/c1_txt/c1_fhll/text_505120.txt) | Death of the Sea Folk |  |
 
 ### Notes
 
@@ -121,14 +121,14 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence | Note |
 |--|--|--|
-| [text_506000.txt](../translations/english/data_m/C1_txt/C1_fhll/text_506000.txt) | Opening briefing |  |
-| [text_506010.txt](../translations/english/data_m/C1_txt/C1_fhll/text_506010.txt) | Mission accomplished |  |
-| [text_506030.txt](../translations/english/data_m/C1_txt/C1_fhll/text_506030.txt) | Paying the tribute to the Cuazinta |  |
-| [text_506040.txt](../translations/english/data_m/C1_txt/C1_fhll/text_506040.txt) | Meeting the Cuazinta |  |
-| [text_506050.txt](../translations/english/data_m/C1_txt/C1_fhll/text_506050.txt) | Meeting the Rain Warriors |  |
-| [text_506060.txt](../translations/english/data_m/C1_txt/C1_fhll/text_506060.txt) | Meeting the Tzulucetl |  |
-| [text_506070.txt](../translations/english/data_m/C1_txt/C1_fhll/text_506070.txt) | Meeting the Cloud Eyes |  |
-| [text_506080.txt](../translations/english/data_m/C1_txt/C1_fhll/text_506080.txt) | Paying the tribute to the Tzulucetl |  |
+| [text_506000.txt](../translations/english/data_m/c1_txt/c1_fhll/text_506000.txt) | Opening briefing |  |
+| [text_506010.txt](../translations/english/data_m/c1_txt/c1_fhll/text_506010.txt) | Mission accomplished |  |
+| [text_506030.txt](../translations/english/data_m/c1_txt/c1_fhll/text_506030.txt) | Paying the tribute to the Cuazinta |  |
+| [text_506040.txt](../translations/english/data_m/c1_txt/c1_fhll/text_506040.txt) | Meeting the Cuazinta |  |
+| [text_506050.txt](../translations/english/data_m/c1_txt/c1_fhll/text_506050.txt) | Meeting the Rain Warriors |  |
+| [text_506060.txt](../translations/english/data_m/c1_txt/c1_fhll/text_506060.txt) | Meeting the Tzulucetl |  |
+| [text_506070.txt](../translations/english/data_m/c1_txt/c1_fhll/text_506070.txt) | Meeting the Cloud Eyes |  |
+| [text_506080.txt](../translations/english/data_m/c1_txt/c1_fhll/text_506080.txt) | Paying the tribute to the Tzulucetl |  |
 
 ### Notes
 
@@ -139,14 +139,14 @@ Warning: these pages will contain spoilers!
 
 | File | Occurrence | Note |
 |--|--|--|
-| [text_507000.txt](../translations/english/data_m/C1_txt/C1_fhll/text_507000.txt) | Opening briefing |  |
-| [text_507010.txt](../translations/english/data_m/C1_txt/C1_fhll/text_507010.txt) | Mission accomplished |  |
-| [text_507040.txt](../translations/english/data_m/C1_txt/C1_fhll/text_507040.txt) | Meeting the Zintapinta |  |
-| [text_507050.txt](../translations/english/data_m/C1_txt/C1_fhll/text_507050.txt) | Meeting the Rain Warriors |  |
-| [text_507060.txt](../translations/english/data_m/C1_txt/C1_fhll/text_507060.txt) | Paying the tribute to the Zintapinta |  |
-| [text_507080.txt](../translations/english/data_m/C1_txt/C1_fhll/text_507080.txt) | Meeting the clan of Maradorn |  |
-| [text_507090.txt](../translations/english/data_m/C1_txt/C1_fhll/text_507090.txt) | Clan of Maradorn starts attacking |  |
-| [text_507100.txt](../translations/english/data_m/C1_txt/C1_fhll/text_507100.txt) | Meeting the Vinlanders |  |
+| [text_507000.txt](../translations/english/data_m/c1_txt/c1_fhll/text_507000.txt) | Opening briefing |  |
+| [text_507010.txt](../translations/english/data_m/c1_txt/c1_fhll/text_507010.txt) | Mission accomplished |  |
+| [text_507040.txt](../translations/english/data_m/c1_txt/c1_fhll/text_507040.txt) | Meeting the Zintapinta |  |
+| [text_507050.txt](../translations/english/data_m/c1_txt/c1_fhll/text_507050.txt) | Meeting the Rain Warriors |  |
+| [text_507060.txt](../translations/english/data_m/c1_txt/c1_fhll/text_507060.txt) | Paying the tribute to the Zintapinta |  |
+| [text_507080.txt](../translations/english/data_m/c1_txt/c1_fhll/text_507080.txt) | Meeting the clan of Maradorn |  |
+| [text_507090.txt](../translations/english/data_m/c1_txt/c1_fhll/text_507090.txt) | Clan of Maradorn starts attacking |  |
+| [text_507100.txt](../translations/english/data_m/c1_txt/c1_fhll/text_507100.txt) | Meeting the Vinlanders |  |
 
 ### Notes
 

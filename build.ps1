@@ -6,7 +6,7 @@ if (!(Test-Path -Path "./bin"))
 	New-Item -ItemType Directory -Path "./bin"
 
 	$url = "https://culturesnation.pl/serwerdownload.php?file_id=403";
-	Invoke-WebRequest -Uri $Url -OutFile "./bin/download.zip"
+	Invoke-WebRequest -Uri $url -OutFile "./bin/download.zip"
 	Expand-Archive -Path "./bin/download.zip" -DestinationPath "./bin"
 }
 

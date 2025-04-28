@@ -4,7 +4,7 @@
 
 | File | Occurrence | Note |
 |--|--|--|
-| [text_140203.txt](../translations/english/data_m/C1_txt/C1_fhll/text_140203.txt) | Death of the player | Seems to be used in all levels |
+| [text_140203.txt](../translations/english/data_m/c1_txt/c1_fhll/text_140203.txt) | Death of the player | Seems to be used in all levels |
 
 
 ## Secret level
@@ -15,12 +15,12 @@
 
 | File | Occurrence | Note |
 |--|--|--|
-| [text_009990.txt](../translations/english/data_m/C1_txt/C1_fhll/text_009990.txt) | Opening briefing |  |
-| [text_009991.txt](../translations/english/data_m/C1_txt/C1_fhll/text_009991.txt) | Meeting the team |  |
-| [text_009992.txt](../translations/english/data_m/C1_txt/C1_fhll/text_009992.txt) | Changing diplomacy to enemy |  |
-| [text_009993.txt](../translations/english/data_m/C1_txt/C1_fhll/text_009993.txt) | | Referenced but never shown. |
-| [text_009994.txt](../translations/english/data_m/C1_txt/C1_fhll/text_009994.txt) | Kill 1 human |  |
-| [text_009995.txt](../translations/english/data_m/C1_txt/C1_fhll/text_009995.txt) | | Unused |
+| [text_009990.txt](../translations/english/data_m/c1_txt/c1_fhll/text_009990.txt) | Opening briefing |  |
+| [text_009991.txt](../translations/english/data_m/c1_txt/c1_fhll/text_009991.txt) | Meeting the team |  |
+| [text_009992.txt](../translations/english/data_m/c1_txt/c1_fhll/text_009992.txt) | Changing diplomacy to enemy |  |
+| [text_009993.txt](../translations/english/data_m/c1_txt/c1_fhll/text_009993.txt) | | Referenced but never shown. |
+| [text_009994.txt](../translations/english/data_m/c1_txt/c1_fhll/text_009994.txt) | Kill 1 human |  |
+| [text_009995.txt](../translations/english/data_m/c1_txt/c1_fhll/text_009995.txt) | | Unused |
 
 ### Notes
 
