@@ -24,6 +24,6 @@
 
 ### Notes
 
-1. This level was also available in the base game, but is heavily modified for the Revenge of the Rain Gods mission pack.
+1. This level was also available in the base game, but is heavily modified for the Revenge of the Rain God mission pack.
 2. Briefings `text_009993` and `text_009995` are left overs from how the level was in the base game.
 3. This level has no win conditions.

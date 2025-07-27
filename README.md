@@ -1,29 +1,30 @@
 <h1 align="center">
-Cultures: Revenge of the Rain Gods
+Cultures: Revenge of the Rain God
 <br/>
 English Translation Pack
 </h1>
 
-This is an English community translation pack for Revenge of the Rain Gods, a mission pack released for the first original Cultures game on a separate CD and as part of the **Cultures: Gold Edition**. Both these games have only been released officially in German. To share its wonderful campaign and new missions with the rest of the world, this English translation pack was created.
+This is an English community translation pack for Revenge of the Rain God, a mission pack released for the first original Cultures game on a separate CD and as part of the **Cultures: Gold Edition**. Both these games have only been released officially in German. To share its wonderful campaign and new missions with the rest of the world, this English translation pack was created.
 
 **This pack is currently a work in progress.**
 
-### [CLICK HERE TO DOWNLOAD THE LATEST RELEASE](https://github.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/releases)
+### [CLICK HERE TO DOWNLOAD THE LATEST RELEASE](https://github.com/Basssiiie/Cultures-Revenge-of-the-Rain-God-Translation/releases)
 
-| ![Select campaign window](https://raw.githubusercontent.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/main/images/campaign-select.png) | ![Briefing for The Departure](https://raw.githubusercontent.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/main/images/the-departure-briefing.png) | ![Paying tribute for mercenaries](https://raw.githubusercontent.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/main/images/buying-mercenaries.png) |
+| ![Select campaign window](https://raw.githubusercontent.com/Basssiiie/Cultures-Revenge-of-the-Rain-God-Translation/main/images/campaign-select.png) | ![Briefing for The Departure](https://raw.githubusercontent.com/Basssiiie/Cultures-Revenge-of-the-Rain-God-Translation/main/images/the-departure-briefing.png) | ![Paying tribute for mercenaries](https://raw.githubusercontent.com/Basssiiie/Cultures-Revenge-of-the-Rain-God-Translation/main/images/buying-mercenaries.png) |
 |--|--|--|
 
 ## Features
 
 This pack contains the following translation changes so far:
 
-- All campaign levels of 'Revenge of the Rain Gods'.
+- All campaign levels of 'Revenge of the Rain God'.
+- 4 of the new scenarios from the mission pack.
 - The secret easter egg level.
 - Enabled the available built-in English language files for various menu's and adds missing strings.
 
 ### Planned
 
-- The new scenario's added by the mission pack.
+- The rest of the new scenario's added by the mission pack.
 
 #### Maybe?
 
@@ -35,19 +36,19 @@ This pack contains the following translation changes so far:
 
 ## Requirements
 
-To play the 'Revenge of the Rain Gods' campaign in English, you must own the original German mission CD or a German copy of **Cultures: Gold Edition**.
+To play the 'Revenge of the Rain God' campaign in English, you must own the original German mission CD or a German copy of **Cultures: Gold Edition**.
 
 **This translation pack does not contain the game itself.**
 
 ## How to install
 
 1. Make a backup of the folder of the game you wish to have translated.
-2. Download the latest version from the [Releases](https://github.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/releases) tab.
+2. Download the latest version from the [Releases](https://github.com/Basssiiie/Cultures-Revenge-of-the-Rain-God-Translation/releases) tab.
 3. Extract the contents of the `*.zip` file and paste them over the installation folder of your game.
 4. Allow to replace everything.
 5. Start the game and it should launch in English.
 
-If you find any issues with the translations in this pack, please report them via the [Issues](https://github.com/Basssiiie/Cultures-Revenge-of-the-Rain-Gods-Translation/issues) page, or let me know personally.
+If you find any issues with the translations in this pack, please report them via the [Issues](https://github.com/Basssiiie/Cultures-Revenge-of-the-Rain-God-Translation/issues) page, or let me know personally.
 
 
 ### Optional: run in windowed mode

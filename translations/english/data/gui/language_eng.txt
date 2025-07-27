@@ -161,6 +161,6 @@ Select the flow control type you wish to use. Default value is 'RTS/DTR Flow Con
 Select the parity type of the connection. Default value is 'No Parity'.
 Select Campaign
 The Discovery of Vinland
-The Revenge of the Rain Gods
+The Revenge of the Rain God
 Play the campaign from the main game.
 Play the campaign from the expansion pack.

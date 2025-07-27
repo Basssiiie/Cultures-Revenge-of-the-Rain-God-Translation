@@ -1,4 +1,4 @@
-# Campaign: Revenge of the Rain Gods
+# Campaign: Revenge of the Rain God
 
 Warning: these pages will contain spoilers!
 

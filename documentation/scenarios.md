@@ -1,4 +1,4 @@
-# Scenario's: Revenge of the Rain Gods
+# Scenario's: Revenge of the Rain God
 
 Warning: these pages will contain spoilers!
 
